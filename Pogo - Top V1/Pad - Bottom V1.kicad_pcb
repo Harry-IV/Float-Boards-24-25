@@ -80,8 +80,8 @@
 		)
 	)
 	(net 0 "")
-	(net 1 "unconnected-(J1-Pin_1-Pad1)")
-	(net 2 "unconnected-(J1-Pin_2-Pad2)")
+	(net 1 "GND")
+	(net 2 "+9V")
 	(footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 		(layer "B.Cu")
 		(uuid "1926f065-b1d0-424f-9d5d-b8dfd636f5f5")
@@ -126,7 +126,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.tme.com/Document/7d9d972ae3468777f69ec2ee99897652/XT30U-M.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -140,7 +140,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
+		(property "Description" "2 PIN XT30 Male"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -154,10 +154,66 @@
 				(justify mirror)
 			)
 		)
+		(property "Mfr." "TME"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "908f1a31-498d-402a-b1d5-6387d851deb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Part #" "XT30U-M"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eec133e1-3ec3-4920-ae97-99dd8e91185b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Order Link" "https://www.tme.com/us/en-us/details/xt30u-m/dc-power-connectors/amass/"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5d4e852-adda-4ac2-a48a-da78ddfaa65e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Price" "$0.626"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0539432e-55db-412d-9688-ef30e0107acf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/19b95f0a-5774-4b1a-9f69-bd6f47d1750f")
 		(sheetname "Root")
-		(sheetfile "Pogo - Bottom V1.kicad_sch")
+		(sheetfile "Pogo - Top V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.71 2.71)
@@ -381,7 +437,7 @@
 			(drill 2.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 1 "unconnected-(J1-Pin_1-Pad1)")
+			(net 1 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
 			(uuid "052c6995-4056-470a-ab59-09f81fe7394a")
@@ -392,7 +448,7 @@
 			(drill 2.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 2 "unconnected-(J1-Pin_2-Pad2)")
+			(net 2 "+9V")
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "05b87863-92d1-4072-9834-6e61c953adae")
@@ -668,7 +724,7 @@
 	)
 	(zone
 		(net 2)
-		(net_name "unconnected-(J1-Pin_2-Pad2)")
+		(net_name "+9V")
 		(layer "F.Cu")
 		(uuid "0f6d5c0b-5f54-4d6f-a164-69b93c9e5856")
 		(hatch edge 0.5)
@@ -932,7 +988,7 @@
 	)
 	(zone
 		(net 1)
-		(net_name "unconnected-(J1-Pin_1-Pad1)")
+		(net_name "GND")
 		(layer "B.Cu")
 		(uuid "d757aca6-8bac-4c46-95b6-d65d20489109")
 		(hatch edge 0.5)
