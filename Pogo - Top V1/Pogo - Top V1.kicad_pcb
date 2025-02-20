@@ -344,7 +344,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -356,7 +356,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER VERT 2POS 2.5MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -368,12 +368,12 @@
 				)
 			)
 		)
-		(property "PARTREV" "N/A"
+		(property "Mfr." "JST Sales America Inc."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "612afea1-b3f5-41e7-8a92-b8c7b9aefb32")
+			(uuid "c955245d-7062-4ffd-a685-d933b792f71f")
 			(effects
 				(font
 					(size 1 1)
@@ -381,12 +381,12 @@
 				)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "Part #" "B2B-XH-A-GU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb161f8e-fd00-4d4e-bdb5-ed6c9466ed68")
+			(uuid "8f7a66cb-8adc-4c0e-9897-78363c1172c7")
 			(effects
 				(font
 					(size 1 1)
@@ -394,12 +394,12 @@
 				)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-A-GU/2043065"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b66284d-158b-4202-9c03-5317adefb132")
+			(uuid "bdadc07b-5c4f-49d0-a47c-6dbdf3b55fdb")
 			(effects
 				(font
 					(size 1 1)
@@ -407,12 +407,12 @@
 				)
 			)
 		)
-		(property "MANUFACTURER" "JST Sales America Inc."
+		(property "Price" "$0.24"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8c27d74-c8d8-46b9-9693-a7fc88cb12d4")
+			(uuid "7bb2694e-523f-4339-9701-238e0f9b2ee0")
 			(effects
 				(font
 					(size 1 1)
@@ -422,7 +422,7 @@
 		)
 		(path "/f124699d-96da-427e-a1b2-9332de4c1b62")
 		(sheetname "Root")
-		(sheetfile "Pad - Top V1.kicad_sch")
+		(sheetfile "Pogo - Top V1.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.7 -2.875)

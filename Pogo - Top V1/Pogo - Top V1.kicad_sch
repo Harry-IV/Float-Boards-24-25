@@ -583,7 +583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXH.pdf"
 			(at 156.21 102.87 0)
 			(effects
 				(font
@@ -592,7 +592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER VERT 2POS 2.5MM"
 			(at 156.21 102.87 0)
 			(effects
 				(font
@@ -601,7 +601,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "N/A"
+		(property "Mfr." "JST Sales America Inc."
 			(at 156.21 102.87 0)
 			(effects
 				(font
@@ -611,33 +611,30 @@
 				(hide yes)
 			)
 		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "Part #" "B2B-XH-A-GU"
 			(at 156.21 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-XH-A-GU/2043065"
 			(at 156.21 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "JST Sales America Inc."
+		(property "Price" "$0.24"
 			(at 156.21 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
