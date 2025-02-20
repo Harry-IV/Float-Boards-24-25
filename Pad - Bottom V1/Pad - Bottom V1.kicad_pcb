@@ -755,8 +755,8 @@
 		(uuid "4d6ac099-4b59-445c-8cce-6581d74dcb98")
 	)
 	(gr_circle
-		(center 155.25 64.25)
-		(end 156.75 64.25)
+		(center 155.25 64.5)
+		(end 156.75 64.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -788,8 +788,8 @@
 		(uuid "cf9295f5-53e5-4e6a-bf12-0c8c7232e598")
 	)
 	(gr_circle
-		(center 143.25 64.25)
-		(end 143.25 65.75)
+		(center 143.25 64.5)
+		(end 144.75 64.5)
 		(stroke
 			(width 0.05)
 			(type default)
