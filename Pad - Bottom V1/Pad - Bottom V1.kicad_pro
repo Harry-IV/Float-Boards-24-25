@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.3,
-          "height": 4.7,
-          "width": 4.7
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Pad - Top V1.kicad_pro",
+    "filename": "Pogo - Bottom V1.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -576,7 +576,7 @@
   },
   "sheets": [
     [
-      "f2fb824b-0c7c-4faa-907c-a8c85c24ff79",
+      "3290a135-58b8-4768-b0c2-c03f3bc7cf69",
       "Root"
     ]
   ],

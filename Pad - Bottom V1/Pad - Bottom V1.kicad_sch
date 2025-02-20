@@ -2,45 +2,32 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "f2fb824b-0c7c-4faa-907c-a8c85c24ff79")
+	(uuid "3290a135-58b8-4768-b0c2-c03f3bc7cf69")
 	(paper "A4")
 	(lib_symbols
-		(symbol "B2B-XH-A:B2B-XH-A"
+		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
-				(offset 1.016)
-			)
+				(offset 1.016) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at -2.54 6.35 0)
+				(at 0 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
-			(property "Value" "B2B-XH-A"
-				(at -2.54 -5.08 0)
+			(property "Value" "Conn_01x02_Socket"
+				(at 0 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
-			(property "Footprint" "B2B-XH-A:B2B-XH-A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
+			(property "Footprint" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -49,7 +36,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Datasheet" "~"
 				(at 0 0 0)
 				(effects
 					(font
@@ -58,118 +45,124 @@
 					(hide yes)
 				)
 			)
-			(property "PARTREV" "N/A"
+			(property "Description" "Generic connector, single row, 01x02, script generated"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "STANDARD" "Manufacturer Recommendations"
+			(property "ki_locked" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
-					(hide yes)
 				)
 			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
+			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "MANUFACTURER" "JST Sales America Inc."
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(symbol "B2B-XH-A_0_0"
-				(rectangle
-					(start -3.175 -0.3175)
-					(end -1.5875 0.3175)
+			(symbol "Conn_01x02_Socket_1_1"
+				(arc
+					(start 0 -2.032)
+					(mid -0.5058 -2.54)
+					(end 0 -3.048)
 					(stroke
-						(width 0.1)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
-						(type outline)
+						(type none)
 					)
 				)
-				(rectangle
-					(start -3.175 2.2225)
-					(end -1.5875 2.8575)
+				(polyline
+					(pts
+						(xy -1.27 -2.54) (xy -0.508 -2.54)
+					)
 					(stroke
-						(width 0.1)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
-						(type outline)
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0.508)
+					(mid -0.5058 0)
+					(end 0 -0.508)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 				(pin passive line
-					(at -7.62 2.54 0)
-					(length 5.08)
-					(name "1"
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "2"
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "2"
 						(effects
 							(font
-								(size 1.016 1.016)
+								(size 1.27 1.27)
 							)
 						)
-					)
-				)
-			)
-			(symbol "B2B-XH-A_1_0"
-				(polyline
-					(pts
-						(xy -3.81 3.81) (xy -2.54 5.08) (xy 3.81 5.08) (xy 3.81 -2.54) (xy -2.54 -2.54) (xy -3.81 -1.27)
-						(xy -3.81 3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
 					)
 				)
 			)
@@ -393,36 +386,54 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 100.33) (xy 148.59 100.33)
+			(xy 151.13 86.36) (xy 153.67 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6eda8eae-d45d-4d45-95b7-254e028837c4")
+		(uuid "1220401e-72b8-4c7f-999a-e667599767bb")
 	)
 	(wire
 		(pts
-			(xy 146.05 102.87) (xy 148.59 102.87)
+			(xy 151.13 88.9) (xy 153.67 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ed70a332-f791-41b1-a5c8-a4544cca0756")
+		(uuid "c6ea05b5-1fa3-4ef0-ae43-b07adce011b3")
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 146.05 100.33 270)
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 158.75 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3c5f2f25-aabd-4fe7-b3bb-156e25916bf6")
-		(property "Reference" "#PWR01"
-			(at 139.7 100.33 0)
+		(uuid "19b95f0a-5774-4b1a-9f69-bd6f47d1750f")
+		(property "Reference" "J1"
+			(at 160.02 86.3599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 160.02 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+			(at 158.75 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -430,17 +441,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 142.24 100.3299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 100.33 0)
+		(property "Datasheet" "https://www.tme.com/Document/7d9d972ae3468777f69ec2ee99897652/XT30U-M.pdf"
+			(at 158.75 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -448,8 +450,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 146.05 100.33 0)
+		(property "Description" "2 PIN XT30 Male"
+			(at 158.75 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -457,8 +459,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 100.33 0)
+		(property "Mfr." "TME"
+			(at 158.75 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part #" "XT30U-M"
+			(at 158.75 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order Link" "https://www.tme.com/us/en-us/details/xt30u-m/dc-power-connectors/amass/"
+			(at 158.75 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$0.626"
+			(at 158.75 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -467,12 +496,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9c52af41-408e-4d02-b2fd-9b3081e6cd6c")
+			(uuid "86257acc-6817-4021-83c1-c200cb041de2")
+		)
+		(pin "2"
+			(uuid "e0b32aa7-4a1f-4247-9abf-882dbb0d5eed")
 		)
 		(instances
 			(project ""
-				(path "/f2fb824b-0c7c-4faa-907c-a8c85c24ff79"
-					(reference "#PWR01")
+				(path "/3290a135-58b8-4768-b0c2-c03f3bc7cf69"
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -480,16 +512,16 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 146.05 102.87 90)
+		(at 151.13 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "71264f1f-b01a-4a1f-83c3-14e738f951d0")
+		(uuid "7281526b-353e-49be-a6b1-0a4dd1f6879d")
 		(property "Reference" "#PWR02"
-			(at 149.86 102.87 0)
+			(at 154.94 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -498,7 +530,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 142.24 102.8699 90)
+			(at 147.32 88.8999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -507,7 +539,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 102.87 0)
+			(at 151.13 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -516,7 +548,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 102.87 0)
+			(at 151.13 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -525,7 +557,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 146.05 102.87 0)
+			(at 151.13 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -534,11 +566,11 @@
 			)
 		)
 		(pin "1"
-			(uuid "b753a1e3-d959-4c28-87c2-d2ca4a6d0f47")
+			(uuid "4cb2d696-f961-42a6-af31-a80ebfca797c")
 		)
 		(instances
 			(project ""
-				(path "/f2fb824b-0c7c-4faa-907c-a8c85c24ff79"
+				(path "/3290a135-58b8-4768-b0c2-c03f3bc7cf69"
 					(reference "#PWR02")
 					(unit 1)
 				)
@@ -546,45 +578,35 @@
 		)
 	)
 	(symbol
-		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 156.21 102.87 0)
+		(lib_id "power:GND")
+		(at 151.13 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f124699d-96da-427e-a1b2-9332de4c1b62")
-		(property "Reference" "J1"
-			(at 161.29 100.3299 0)
+		(uuid "a5ccb7a1-88b6-432a-ac5c-3e6be4fede2f")
+		(property "Reference" "#PWR01"
+			(at 144.78 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-			)
-		)
-		(property "Value" "B2B-XH-A"
-			(at 161.29 102.8699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "B2B-XH-A:B2B-XH-A"
-			(at 156.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 156.21 102.87 0)
+		(property "Value" "GND"
+			(at 147.32 86.3599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -592,8 +614,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 156.21 102.87 0)
+		(property "Datasheet" ""
+			(at 151.13 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -601,56 +623,22 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "N/A"
-			(at 156.21 102.87 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 151.13 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 156.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 156.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 156.21 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "7d7c93c5-f9cb-4b4f-93c1-f896ca4026b1")
-		)
-		(pin "2"
-			(uuid "809ed4c4-6642-4c13-8b6d-fbb55387687f")
+			(uuid "7a04fa0f-26d8-4e4c-8e90-edc9125656e8")
 		)
 		(instances
 			(project ""
-				(path "/f2fb824b-0c7c-4faa-907c-a8c85c24ff79"
-					(reference "J1")
+				(path "/3290a135-58b8-4768-b0c2-c03f3bc7cf69"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
