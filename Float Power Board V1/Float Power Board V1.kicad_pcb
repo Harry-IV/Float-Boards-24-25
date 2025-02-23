@@ -124,7 +124,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "3588"
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p43.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -136,7 +136,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mini Fuse Holder Blade"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -144,6 +144,58 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8decb8ad-7e93-48e3-8aa5-2e52ab6903a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part #" "3588"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d14e0a96-05e0-49c5-b5a3-a6289c02136d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/3588/2137308"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "917853a4-44bb-46ae-b435-0084592fa151")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "$1.25"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0b10c61-bb75-436e-b8c6-474c06033d2c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -755,7 +807,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -768,7 +820,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -781,12 +833,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 90)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "56946322-d350-4893-9b81-96caf4d70935")
+			(uuid "6d17b3fb-b718-4055-8acf-0abc5343267b")
 			(effects
 				(font
 					(size 1 1)
@@ -795,12 +847,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 90)
+		(property "Part #" "967"
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cf782431-c984-4680-b38d-8bcd877af969")
+			(uuid "b344031e-279d-4add-af61-7fb40c8a1685")
 			(effects
 				(font
 					(size 1 1)
@@ -809,12 +861,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 90)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b5950d06-6a7c-4440-a4f2-29e11cd0d67f")
+			(uuid "4451ba98-5442-4288-b62f-77884fe26445")
 			(effects
 				(font
 					(size 1 1)
@@ -823,26 +875,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 90)
+		(property "Price " "$1.174"
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cbbb6d8c-15b5-4cfa-a568-8509a8ff580d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "3dfbe3b4-d386-40b1-89b4-2bed16b7bb13")
+			(uuid "126d6d7c-331f-4fed-8cc3-33ebb5e1bbe4")
 			(effects
 				(font
 					(size 1 1)
@@ -1187,7 +1225,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -1200,7 +1238,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -1213,12 +1251,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 135)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 -45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ff98f459-0589-41db-9d64-ce0ec49d6b24")
+			(uuid "c561a680-a446-4840-b3fe-d3f7e6645597")
 			(effects
 				(font
 					(size 1 1)
@@ -1227,12 +1265,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 135)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 -45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "90124a68-e3a0-4786-8389-01e3beaabbad")
+			(uuid "c7bc687e-5c4e-4079-875f-bfbbc0d57cf3")
 			(effects
 				(font
 					(size 1 1)
@@ -1241,40 +1279,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 135)
+		(property "Price " "$1.174"
+			(at 0 0 -45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a5983487-2178-45f2-98c7-6992d8d0e732")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 135)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "17c0bf5d-7659-4b29-88dc-620615959a13")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 135)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "eef9b599-1ff2-4acb-824d-60eb141341ab")
+			(uuid "311970b6-2e41-4f30-92d7-a75ccbbcebdf")
 			(effects
 				(font
 					(size 1 1)
@@ -1339,7 +1349,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -1372,7 +1382,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -1513,7 +1523,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -1546,7 +1556,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -1619,7 +1629,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -1632,7 +1642,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -1645,12 +1655,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 180)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9356a82d-c7ba-4a33-b31f-1ca4f3044f5a")
+			(uuid "cf48ed5f-6e34-46e0-99de-8fe3b87606f2")
 			(effects
 				(font
 					(size 1 1)
@@ -1659,12 +1669,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 180)
+		(property "Part #" "967"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5c5ce5ce-4cd7-49c7-a808-026270f5de44")
+			(uuid "267dcdda-67a1-4109-97e3-6f71044ae46b")
 			(effects
 				(font
 					(size 1 1)
@@ -1673,12 +1683,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 180)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b096f784-772b-4478-883d-225c579bef3a")
+			(uuid "5a274e49-dad1-48a5-9648-c4bd58ccb8ec")
 			(effects
 				(font
 					(size 1 1)
@@ -1687,26 +1697,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 180)
+		(property "Price" "$1.174"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "96c16f41-d777-445d-a838-42b4a8e55161")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "d6df3243-34aa-49ba-aff8-a7676278eb78")
+			(uuid "afce9d22-4a81-4e05-957c-881032a27ecc")
 			(effects
 				(font
 					(size 1 1)
@@ -2051,7 +2047,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -2064,7 +2060,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -2077,12 +2073,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 -90)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "496543d0-eb38-4b9f-b4bf-1af4a1e6322d")
+			(uuid "98627385-7f67-468d-846d-b5628fee8581")
 			(effects
 				(font
 					(size 1 1)
@@ -2091,12 +2087,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 -90)
+		(property "Part #" "967"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b9510de6-d055-4613-ad2e-51c14290c319")
+			(uuid "a66cb976-c162-4422-a96e-178772cd1289")
 			(effects
 				(font
 					(size 1 1)
@@ -2105,12 +2101,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 -90)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "92207829-40be-496d-8d23-9ac750b21f4a")
+			(uuid "87affb40-bf4a-4138-88eb-ec18d332337b")
 			(effects
 				(font
 					(size 1 1)
@@ -2119,26 +2115,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 -90)
+		(property "Price" "$1.174"
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b009b9ff-cbec-46ac-81ef-b46bad6ef3b2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c0b766c3-c049-4ee9-bbb0-202a937aec31")
+			(uuid "b3d81da9-e52b-44df-9461-38bc48856087")
 			(effects
 				(font
 					(size 1 1)
@@ -2483,7 +2465,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -2496,7 +2478,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 135)
 			(layer "B.Fab")
 			(hide yes)
@@ -2509,12 +2491,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 -45)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "638986ea-2099-4bdf-bba6-d5c6c5e6eea6")
+			(uuid "be0f2a5a-35e1-4e63-82e4-b645a657d449")
 			(effects
 				(font
 					(size 1 1)
@@ -2523,12 +2505,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 -45)
+		(property "Part #" "967"
+			(at 0 0 135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "66f8b19a-d471-47b5-82ba-f3939dda77a7")
+			(uuid "bbf24d8e-d61b-4091-8c20-cf436bea7547")
 			(effects
 				(font
 					(size 1 1)
@@ -2537,12 +2519,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 -45)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4ffd3fbf-7f73-4b4c-809a-f0551303b7c4")
+			(uuid "39f339cd-826d-45fe-99be-d241bea0f903")
 			(effects
 				(font
 					(size 1 1)
@@ -2551,26 +2533,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 -45)
+		(property "Price" "$1.174"
+			(at 0 0 135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4dd43a5c-e2ee-4e1c-b8db-483af3ce95e3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 -45)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "cb10f2e9-144c-4f0e-bf0a-7428a7b1d4ba")
+			(uuid "462a3a0c-8ec8-4d14-a5cf-293e182aeee0")
 			(effects
 				(font
 					(size 1 1)
@@ -2635,7 +2603,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -2668,7 +2636,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -2809,7 +2777,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -2842,7 +2810,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -2915,7 +2883,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -2928,7 +2896,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -2941,12 +2909,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 0)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c966ef6b-9887-4f94-a26a-566d6c707308")
+			(uuid "76e207f7-7d8b-4ef3-9c25-e8f7f1383dfd")
 			(effects
 				(font
 					(size 1 1)
@@ -2955,12 +2923,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 0)
+		(property "Part #" "967"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "94c4e9c9-e9d7-46a7-a506-819cf9e9996a")
+			(uuid "c6ecb28b-5bc6-4c21-945a-076dd8873297")
 			(effects
 				(font
 					(size 1 1)
@@ -2969,12 +2937,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 0)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "be2c3072-75ef-4044-b222-a7975f6315a3")
+			(uuid "ce1952f6-5afc-4bd3-bb3c-919bb2d56ad3")
 			(effects
 				(font
 					(size 1 1)
@@ -2983,26 +2951,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 0)
+		(property "Price" "$1.174"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1aea0ac7-0d63-4764-a957-b759bb473c45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "39de7968-d476-4328-a350-81f4ab1512bc")
+			(uuid "67d63c37-cfeb-4b11-8751-40607868517a")
 			(effects
 				(font
 					(size 1 1)
@@ -3347,7 +3301,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 45)
 			(layer "B.Fab")
 			(hide yes)
@@ -3360,7 +3314,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 45)
 			(layer "B.Fab")
 			(hide yes)
@@ -3373,12 +3327,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 45)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 -135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8d3c11e1-0bf2-42be-a501-f0963f86f484")
+			(uuid "b99c439b-165f-431e-95a1-02be08ca97a7")
 			(effects
 				(font
 					(size 1 1)
@@ -3387,12 +3341,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 45)
+		(property "Part #" "967"
+			(at 0 0 -135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "374bba17-999f-44d9-b924-6f10869269c4")
+			(uuid "40f7f89f-96ab-441b-a181-76139fe91932")
 			(effects
 				(font
 					(size 1 1)
@@ -3401,12 +3355,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 45)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 -135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c99a4617-90bf-47b7-9cd0-dc64c873d1f4")
+			(uuid "f7efed19-248c-4825-bae8-6222d1f36370")
 			(effects
 				(font
 					(size 1 1)
@@ -3415,26 +3369,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 45)
+		(property "Price" "$1.174"
+			(at 0 0 -135)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ea9ca8cf-c528-430a-a3e5-717976db17dd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 45)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "4b18ab24-088a-4c85-bc4d-db0120d19c3a")
+			(uuid "56b3fd7d-b13f-40d7-bec0-0bbe5989e54f")
 			(effects
 				(font
 					(size 1 1)
@@ -3499,7 +3439,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -3532,7 +3472,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3673,7 +3613,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -3706,7 +3646,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3779,7 +3719,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 0 0 45)
 			(layer "B.Fab")
 			(hide yes)
@@ -3792,7 +3732,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 0 0 45)
 			(layer "B.Fab")
 			(hide yes)
@@ -3805,12 +3745,12 @@
 				(justify mirror)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 0 0 -135)
+		(property "Mfr." "Keystone Electronics"
+			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "59f532e5-78f1-4d9a-9e78-c9e0038cfd2a")
+			(uuid "bf0ff684-294b-4ae4-8a1e-6eab2a009ebe")
 			(effects
 				(font
 					(size 1 1)
@@ -3819,12 +3759,12 @@
 				(justify mirror)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
-			(at 0 0 -135)
+		(property "Part #" "967"
+			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "876a80d3-e852-49e3-810e-c0f34dc9427d")
+			(uuid "2ef7b331-2844-4171-b3cf-2d88c8013abb")
 			(effects
 				(font
 					(size 1 1)
@@ -3833,12 +3773,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
-			(at 0 0 -135)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
+			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8cdf5350-c4a6-41e5-ad3a-9eb36597b260")
+			(uuid "87dda573-68d5-4917-8ac9-42df5d8da8fb")
 			(effects
 				(font
 					(size 1 1)
@@ -3847,26 +3787,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 0 0 -135)
+		(property "Price" "$1.174"
+			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6ede5e36-2935-40a8-b107-181726e92559")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 -135)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "914dfc08-dcc5-4390-a75f-190c14f2640b")
+			(uuid "862de6a3-5c8c-4c40-952f-065704c8da15")
 			(effects
 				(font
 					(size 1 1)
@@ -3931,7 +3857,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3964,7 +3890,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -4105,7 +4031,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029789 -4.804788)
+			(mid -11.029788 -4.804788)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -4138,7 +4064,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029789 4.804788)
+			(mid 11.029788 4.804788)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)

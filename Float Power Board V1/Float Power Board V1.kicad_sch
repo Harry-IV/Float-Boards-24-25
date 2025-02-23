@@ -1369,7 +1369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "3588"
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p43.pdf"
 			(at 138.43 147.32 0)
 			(effects
 				(font
@@ -1379,8 +1379,44 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Mini Fuse Holder Blade"
 			(at 138.43 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr." "Keystone Electronics"
+			(at 138.43 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part #" "3588"
+			(at 138.43 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/3588/2137308"
+			(at 138.43 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$1.25"
+			(at 138.43 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1510,7 +1546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 85.09 0)
 			(effects
 				(font
@@ -1519,7 +1555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 85.09 0)
 			(effects
 				(font
@@ -1528,7 +1564,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 85.09 0)
 			(effects
 				(font
@@ -1538,7 +1574,7 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
+		(property "Part #" "967"
 			(at 130.81 85.09 0)
 			(effects
 				(font
@@ -1548,7 +1584,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 85.09 0)
 			(effects
 				(font
@@ -1558,23 +1594,12 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
+		(property "Price" "$1.174"
 			(at 130.81 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 130.81 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -1629,7 +1654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 129.54 0)
 			(effects
 				(font
@@ -1638,7 +1663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 129.54 0)
 			(effects
 				(font
@@ -1647,7 +1672,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 129.54 0)
 			(effects
 				(font
@@ -1657,7 +1682,7 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
+		(property "Part #" "967"
 			(at 130.81 129.54 0)
 			(effects
 				(font
@@ -1667,7 +1692,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 129.54 0)
 			(effects
 				(font
@@ -1677,23 +1702,12 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
+		(property "Price" "$1.174"
 			(at 130.81 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 130.81 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -1748,7 +1762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 143.51 0)
 			(effects
 				(font
@@ -1757,7 +1771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 143.51 0)
 			(effects
 				(font
@@ -1766,17 +1780,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 130.81 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "967"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 143.51 0)
 			(effects
 				(font
@@ -1786,7 +1790,16 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Part #" "967"
+			(at 130.81 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 143.51 0)
 			(effects
 				(font
@@ -1796,17 +1809,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 130.81 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "Price " "$1.174"
 			(at 130.81 143.51 0)
 			(effects
 				(font
@@ -1867,7 +1870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1876,7 +1879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1885,7 +1888,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1895,7 +1898,7 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
+		(property "Part #" "967"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1905,7 +1908,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 100.33 0)
 			(effects
 				(font
@@ -1915,23 +1918,12 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
+		(property "Price" "$1.174"
 			(at 130.81 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 130.81 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -1985,7 +1977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 43.18 0)
 			(effects
 				(font
@@ -1994,7 +1986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 43.18 0)
 			(effects
 				(font
@@ -2003,7 +1995,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 43.18 0)
 			(effects
 				(font
@@ -2013,43 +2005,30 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
+		(property "Part #" "967"
 			(at 130.81 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
+		(property "Price" "$1.174"
 			(at 130.81 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 130.81 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -2103,7 +2082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 71.12 0)
 			(effects
 				(font
@@ -2112,7 +2091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 71.12 0)
 			(effects
 				(font
@@ -2121,7 +2100,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 71.12 0)
 			(effects
 				(font
@@ -2131,7 +2110,7 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
+		(property "Part #" "967"
 			(at 130.81 71.12 0)
 			(effects
 				(font
@@ -2141,7 +2120,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 71.12 0)
 			(effects
 				(font
@@ -2151,23 +2130,12 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
+		(property "Price" "$1.174"
 			(at 130.81 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 130.81 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -2291,7 +2259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 57.15 0)
 			(effects
 				(font
@@ -2300,7 +2268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 57.15 0)
 			(effects
 				(font
@@ -2309,7 +2277,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 57.15 0)
 			(effects
 				(font
@@ -2319,7 +2287,7 @@
 				(hide yes)
 			)
 		)
-		(property "SNAPEDA_PN" "967"
+		(property "Part #" "967"
 			(at 130.81 57.15 0)
 			(effects
 				(font
@@ -2329,7 +2297,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 57.15 0)
 			(effects
 				(font
@@ -2339,23 +2307,12 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
+		(property "Price" "$1.174"
 			(at 130.81 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 130.81 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -2410,7 +2367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.keyelco.com/userAssets/file/M65p31.pdf"
 			(at 130.81 114.3 0)
 			(effects
 				(font
@@ -2419,7 +2376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "9V Battery Holder"
 			(at 130.81 114.3 0)
 			(effects
 				(font
@@ -2428,17 +2385,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "10.16.07"
-			(at 130.81 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "967"
+		(property "Mfr." "Keystone Electronics"
 			(at 130.81 114.3 0)
 			(effects
 				(font
@@ -2448,7 +2395,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Keystone Electronics"
+		(property "Order Link" "https://www.digikey.com/en/products/detail/keystone-electronics/967/2745660"
 			(at 130.81 114.3 0)
 			(effects
 				(font
@@ -2458,17 +2405,7 @@
 				(hide yes)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "5.38mm"
-			(at 130.81 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "Price " "$1.174"
 			(at 130.81 114.3 0)
 			(effects
 				(font
