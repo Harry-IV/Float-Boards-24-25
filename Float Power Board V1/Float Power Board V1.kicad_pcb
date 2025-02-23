@@ -45,10 +45,10 @@
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
 			(svgprecision 4)
@@ -71,10 +71,10 @@
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -1349,7 +1349,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -1382,7 +1382,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -1523,7 +1523,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -1556,7 +1556,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -2603,7 +2603,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -2636,7 +2636,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -2777,7 +2777,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -2810,7 +2810,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3439,7 +3439,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -3472,7 +3472,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3613,7 +3613,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -3646,7 +3646,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3857,7 +3857,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -3890,7 +3890,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
@@ -4031,7 +4031,7 @@
 		)
 		(fp_arc
 			(start -13.02 0)
-			(mid -11.029788 -4.804788)
+			(mid -11.029787 -4.804787)
 			(end -6.225 -6.795)
 			(stroke
 				(width 0.127)
@@ -4064,7 +4064,7 @@
 		)
 		(fp_arc
 			(start 13.02 0)
-			(mid 11.029788 4.804788)
+			(mid 11.029787 4.804787)
 			(end 6.225 6.795)
 			(stroke
 				(width 0.127)
